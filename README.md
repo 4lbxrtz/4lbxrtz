@@ -4,7 +4,9 @@ I’m a software engineer who loves diving deep into how things *really* work �
 
 I’ve lived abroad, met people from all over, and learned to adapt quickly — not just to new cultures but to new technologies too. I speak Spanish, English, and French, which helps me talk to humans as easily as to machines (well, most of the time).
 
-When I’m not tinkering with code or exploring new tools, I’m probably learning something about how games are made, or wondering why that one bug only appears *right before a deadline*.
+When I’m not tinkering with code or exploring new tools, I’m probably **speedrunning games**, chasing **no-hit runs** (I even have one in *Dark Souls 1*, my favorite game), or diving into the worlds of **manga** — *Blame!* and *Berserk* are my top picks.
+
+I’m drawn to the aesthetics of **divine machinery, pipes, cables, and alien pods with beautiful shapes** — think parts of *Blame!* — and **Axiom Verge** embodies this perfectly. My favorite zone in the game is the one with the air conditioners in the background; it’s actually the most mesmerizing environment I’ve ever seen.
 
 Let’s build something cool — or at least break it in interesting ways. 🚀
 
