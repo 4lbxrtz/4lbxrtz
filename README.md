@@ -1,5 +1,13 @@
 ### Hi there 👋 I’m Alberto Oria
 
+<div align="center">
+
+</div>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=git,bash,cpp,cmake,react,ts,express,postman,py,nodejs,linux,vscode,vitest,neovim,notion)](https://skillicons.dev)
+
 I’m a software engineer who loves diving deep into how things *really* work — from the way operating systems juggle memory to the networks that keep everything talking. I’m all about low-level programming, game development, and any challenge that makes me scratch my head (in a good way).
 
 I’ve lived abroad, met people from all over, and learned to adapt quickly — not just to new cultures but to new technologies too. I speak Spanish, English, and French, which helps me talk to humans as easily as to machines (well, most of the time).
@@ -26,7 +34,7 @@ This project blends my passion for **scientific image processing**, **computer v
 <div align="center">
 
 📫 **Email**: [4lbxrtz@gmail.com](mailto:4lbxrtz@gmail.com) •
-💼 **LinkedIn**: [Alberto Oria](https://www.linkedin.com/in/alberto-oria) •
+💼 **LinkedIn**: [Alberto Oria](https://www.linkedin.com/in/4lbxrtz/) •
 🐦 **Twitter**: [@4lbxrtz](https://x.com/4lbxrtz)
 
 </div>
