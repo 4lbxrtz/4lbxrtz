@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Alberto Oria
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bash,cpp,cuda,opencv,react,ts,express,postman,py,nodejs,linux,vscode,vitest,neovim)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,bash,java,spring,cpp,ruby,mongodb,postgresql,cuda,opencv,react,angular,ts,express,postman,py,nodejs,vitest,vscode,neovim)](https://skillicons.dev)
 
 I’m a software engineer who loves understanding how things really work — from how operating systems juggle memory to how networks keep everything connected. I enjoy working close to the metal, automating things, and solving problems that make me stop and think for a moment.
 
